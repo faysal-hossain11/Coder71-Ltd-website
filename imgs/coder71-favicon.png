@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>
+<html class="ie ie6 demo-2 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>
+<html class="ie ie7 demo-2 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>
+<html class="ie ie8 demo-2 no-js" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" class="demo-2 no-js">
+<!--<![endif]-->
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <!-- Basic Page Needs
+  ================================================== -->
+    <script type="text/javascript" src="/themes/coder71/assets/js/jQuery.min.js"></script>
+    <title>Coder71 Ltd. - Website Design &amp; Development Firm in Dhaka Bangladesh</title>
+    <meta content="coder71, coder 71, coder71 ltd, coder71 limited, web design company bangladesh, web designers bangladesh, bangladeshi web designers, web development bangladesh, web design services, seo company bangladesh, seo services bangladesh, web designing services bangladesh, seo bangladesh, website design company, website designers bangladesh, website design services bangladesh, website designing services, web design services bangladesh, custom web design services, custom web designers, custom web development, web development bangladesh, website design bangladesh, search engine optimization bangladesh, website promotion bangladesh, web design firm bangladesh, seo experts bangladesh, web development bangladesh ,web developers bangladesh, dhaka, bangladesh, mehedi, mehedi hasan, domain registration bangladesh, web hosting bangladesh, affordable cost, low cost, facebook application, bangladesh facebook application developer"
+          name="keywords">
+    <meta content="website design services bangladesh, custom web site design, web design bangladesh, web design company bangladesh, seo bangladesh, seo company bangladesh, website development company bangladesh, dhaka, bangladesh"
+          name="keyphrases">
+
+    <meta name="description"
+          content="Web Designing, Web Development, SEO Service and Domain Hosting Service Provider in Dhaka Bangladesh">
+    <meta name="author" content="Coder71 Ltd.">
+    <link rel="icon" href="/themes/coder71/assets/img/coder71-favicon.png" type="image/x-icon"/>
+    <link rel="icon" href="/themes/coder71/assets/images/coder71-favicon.png" type="image/x-icon"/>
+    <!-- Mobile Specific Meta
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- All Css -->
+    <link rel="stylesheet" type="text/css" href="/themes/coder71/assets/css/bootstrap.min.css"
+          media="screen">
+    <!-- <link rel="stylesheet" type="text/css" href="/themes/coder71/assets/css/font-awesome.min
+    .css"
+          media="screen"> -->
+    <link rel="stylesheet" type="text/css" href="/themes/coder71/assets/css/icofont.min.css"
+          media="screen">
+    <link rel="stylesheet" type="text/css" href="/themes/coder71/assets/css/hover-min.css"
+          media="screen">
+    <!--Owl Carousel-->
+    <link rel="stylesheet" type="text/css" href="/themes/coder71/assets/css/owl.carousel.min.css"
+          media="screen">
+    <link rel="stylesheet" type="text/css" href="/themes/coder71/assets/css/owl.theme.min.css"
+          media="screen">
+    <link rel="stylesheet" type="text/css" href="/themes/coder71/assets/css/owl.transitions.min.css"
+          media="screen">
+    <!--Portfolio-->
+    <link rel="stylesheet" type="text/css"
+          href="/themes/coder71/assets/css/spsimpleportfolio.min.css"
+          media="screen">
+    <link rel="stylesheet" type="text/css" href="/themes/coder71/assets/css/featherlight.min.css"
+          media="screen">
+    <link rel="stylesheet" type="text/css" href="/themes/coder71/assets/css/style.min.css"
+          media="screen">
+    <link rel="stylesheet" type="text/css" href="/themes/coder71/assets/css/responsive.min.css"
+          media="screen">
+
+    <script src="https://use.fontawesome.com/2d49a73de4.js"></script>
+
+    <!-- Schema /-->
+    <script type='application/ld+json'> 
+    {
+      "@context": "http://www.schema.org",
+      "@type": "Localbusiness",
+      "name": "Coder71 Ltd.",
+      "url":"http://www.coder71.com/",
+      "logo":"http://www.coder71.com//themes/coder71/assets/images/coder71-logo.png",
+      "image": "http://www.coder71.com//themes/coder71/assets/images/banner-1.jpg",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jawad Tower, House# 74, Level# 7, flat# 8A, Zoo Road, Block# D, Section# 2, Mirpur, Dhaka-1216, Bangladesh",
+        "addressLocality": "Dhaka",
+        "postalCode": "1216",
+        "addressCountry": "Bangladesh"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "\"20.75\"",
+        "longitude": "\"13.98\""
+      },
+      "aggregateRating" : {
+      "@type" : "AggregateRating", 
+      "ratingValue" : "5", 
+      "bestRating" : "5",
+      "worstRating" : "0", 
+      "ratingCount" : "94" },
+      
+      "sameAs" : [
+        "http://www.facebook.com/WeAreCoder71",
+        "http://www.twitter.com/WeAreCoder71",
+        "http://www.linkedin.com/company/coder71"
+       ],
+      "hasMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d456.2731989602085!2d90.3674855!3d23.8119986!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa819401f2995f2a9!2sCoder71+Ltd.!5e0!3m2!1sen!2sbd!4v1551249760112\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+      "openingHours": "Mo, Tu, We, Th, Sa, Su -",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Customer Service",
+        "telephone": "+8801911774866"
+      },
+      "priceRange": "It's depends on your requirments",
+      "telephone": "+8801911774866"
+    }
+
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "Service",
+            "serviceType": "Website Design and Development",
+            "provider": {
+                "@type": "LocalBusiness",
+                "name": "Coder71 Ltd.",
+                "image": "http://www.coder71.com/img/intro/homebg.png",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Jawad Tower, House# 74, Level# 7, flat# 8A, Zoo Road, Block# D, Section# 2, Mirpur, Dhaka-1216, Bangladesh",
+                    "addressLocality": "Dhaka",
+                    "postalCode": "1216",
+                    "addressCountry": "Bangladesh"
+                },
+                "priceRange": "It's depends on your requirments",
+                "telephone": "+8801911774866"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "All Country"
+            }
+        }
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "Service",
+            "serviceType": "Web Application Development",
+            "provider": {
+                "@type": "LocalBusiness",
+                "name": "Coder71 Ltd.",
+                "image": "http://www.coder71.com/img/intro/homebg.png",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Jawad Tower, House# 74, Level# 7, flat# 8A, Zoo Road, Block# D, Section# 2, Mirpur, Dhaka-1216, Bangladesh",
+                    "addressLocality": "Dhaka",
+                    "postalCode": "1216",
+                    "addressCountry": "Bangladesh"
+                },
+                "priceRange": "It's depends on your requirments",
+                "telephone": "+8801911774866"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "All Country"
+            }
+        }
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "Service",
+            "serviceType": "E-Commerce Website Development",
+            "provider": {
+                "@type": "LocalBusiness",
+                "name": "Coder71 Ltd.",
+                "image": "http://www.coder71.com/img/intro/homebg.png",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Jawad Tower, House# 74, Level# 7, flat# 8A, Zoo Road, Block# D, Section# 2, Mirpur, Dhaka-1216, Bangladesh",
+                    "addressLocality": "Dhaka",
+                    "postalCode": "1216",
+                    "addressCountry": "Bangladesh"
+                },
+                "priceRange": "It's depends on your requirments",
+                "telephone": "+8801911774866"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "All Country"
+            }
+        }
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "Service",
+            "serviceType": "Search Engine Optimization (SEO)",
+            "provider": {
+                "@type": "LocalBusiness",
+                "name": "Coder71 Ltd.",
+                "image": "http://www.coder71.com/img/intro/homebg.png",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Jawad Tower, House# 74, Level# 7, flat# 8A, Zoo Road, Block# D, Section# 2, Mirpur, Dhaka-1216, Bangladesh",
+                    "addressLocality": "Dhaka",
+                    "postalCode": "1216",
+                    "addressCountry": "Bangladesh"
+                },
+                "priceRange": "It's depends on your requirments",
+                "telephone": "+8801911774866"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "All Country"
+            }
+        }
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "Service",
+            "serviceType": "Total CMS and Blog Solutions",
+            "provider": {
+                "@type": "LocalBusiness",
+                "name": "Coder71 Ltd.",
+                "image": "http://www.coder71.com/img/intro/homebg.png",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Jawad Tower, House# 74, Level# 7, flat# 8A, Zoo Road, Block# D, Section# 2, Mirpur, Dhaka-1216, Bangladesh",
+                    "addressLocality": "Dhaka",
+                    "postalCode": "1216",
+                    "addressCountry": "Bangladesh"
+                },
+                "priceRange": "It's depends on your requirments",
+                "telephone": "+8801911774866"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "All Country"
+            }
+        }
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "Service",
+            "serviceType": "Corporate Identity and Graphics",
+            "provider": {
+                "@type": "LocalBusiness",
+                "name": "Coder71 Ltd.",
+                "image": "http://www.coder71.com/img/intro/homebg.png",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Jawad Tower, House# 74, Level# 7, flat# 8A, Zoo Road, Block# D, Section# 2, Mirpur, Dhaka-1216, Bangladesh",
+                    "addressLocality": "Dhaka",
+                    "postalCode": "1216",
+                    "addressCountry": "Bangladesh"
+                },
+                "priceRange": "It's depends on your requirments",
+                "telephone": "+8801911774866"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "All Country"
+            }
+        }
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Mirpur-2, Dhaka-1216, Bangladesh",
+                "postalCode": "1216",
+                "streetAddress": "Jawad Tower, House# 74, Level# 7, flat# 8A, Zoo Road, Block# D, Section# 2, Mirpur, Dhaka-1216, Bangladesh"
+            },
+            "email": "info@coder71.com",
+            "alumni": [
+                {
+                    "@type": "Person",
+                    "name": "S.M. Mehedi Hasan",
+                    "sameAs": "http://www.mehedi.com.bd/"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rajib Kumar Rakhmit",
+                    "sameAs": "http://www.rajibkumar.com/"
+                }
+            ],
+            "name": "Coder71 Ltd.",
+            "telephone": "01911774866"
+        }
+    </script>
+</head>
+
+<body class="body-innerwrapper">
+    <!-- Messenger Chat Plugin Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Chat Plugin code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "557518341077093");
+      chatbox.setAttribute("attribution", "biz_inbox");
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v10.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script><!--Pre loader
+    <div id="preloader">
+        <div class="loading-logo">
+            <img class="img-responsive" src="/themes/coder71/assets/images/coder71-favicon.png" alt="Loading...">
+        </div>
+        <footer>
+            <p>Copyright © 2022 Coder71 Ltd. All Rights Reserved.</p>
+        </footer>
+    </div>-->
+    <!--Top Section-->
+    <section id="main-banner" class="one">
+        <!--Header-->
+        <header class="header-1">
+              <nav class="navbar active" data-spy="affix" data-offset-top="1" id="slide-nav">
+                <div class="container">
+                    <div class="navbar-header col-sm-3 col-md-3 col-xs-12">
+                        <button type="button" class="navbar-toggle">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a href="/" class="menu-logo-ex"><img class="img-responsive" src="https://www.coder71.com/upload/logo/1554027736527.png" alt="Coder71 Ltd. - Website Design &amp; Development Firm in Dhaka Bangladesh" title="Coder71 Ltd. - Website Design &amp; Development Firm in Dhaka Bangladesh"></a>
+                    </div>
+                    <!--Nav links-->
+                    <div class=" navbar-collapse col-sm-9 col-md-9" id="menu_nav">
+                        <a href="#" class="closs"><i class="icofont icofont-close-line"></i></a>
+                        <ul class="nav navbar-nav">
+  <li> <a href="/">Home</a> </li>
+  <li class="dropdown mega-menu"> <a href="#services">Our Services</a>
+    <ul class="col-md-12 dropdown-menu mega-menu-bg">
+      <div class="web-design">
+        <div class="mega-menu-content container">
+          <div class="col-md-3 col-sm-12">
+            <h2>Web Design & Development</h2>
+            <div class="listdesign">
+              <ul>
+                <li> <a href="#">Small Website Development </a> </li>
+                <li> <a href="#">Corporate Website Development </a> </li>
+                <li> <a href="#">Garments/Textiles/Buying House Website Development </a> </li>
+                <li> <a href="#">Realestate Website Development </a> </li>
+                <li> <a href="#">Travel Agency Website Development </a> </li>
+                <li> <a href="#">Yii/Codeigniter/Laravel Website Development </a> </li>
+                <li> <a href="#">Node JS/Angular JS Website Development </a> </li>
+                <li> <a href="#">Custom PHP Website Development </a> </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h2>E-Commerce Website Development</h2>
+            <div class="listdesign">
+              <ul>
+                <li> <a href="#">Wo-commerce Website Development </a> </li>
+                <li> <a href="#">Opencart Website Development </a> </li>
+                <li> <a href="#">Magento Website Development </a> </li>
+                <li> <a href="#">PestaShop Website Development </a> </li>
+                <li> <a href="#">X-Cart, Zen-Cart Website Development </a> </li>
+                <li> <a href="#">Payment Gateway Integration </a> </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h2>Content Management System (CMS)</h2>
+            <div class="listdesign">
+              <ul>
+                <li> <a href="#">WordPress Website Development </a> </li>
+                <li> <a href="#">Joomla Website Development </a> </li>
+                <li> <a href="#">Drupal Website Development </a> </li>
+                <li> <a href="#">Newsportal Website Development </a> </li>
+                <li> <a href="#">Classified Ads Website Development </a> </li>
+                <li> <a href="#">Job Portal Website Development </a> </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h2>Digital Marketing</h2>
+            <div class="listdesign">
+              <ul>
+                <li> <a href="#">Search Engine Optimization (SEO) </a> </li>
+                <li> <a href="#">Google Adwords Management </a> </li>
+                <li> <a href="#">Facebook Fan Page Management </a> </li>
+                <li> <a href="#">Facebook Marketing </a> </li>
+                <li> <a href="#">LinkedIn/Twitter/Instagram Social Marketing </a> </li>
+              </ul>
+            </div>
+          </div>
+          <div style="clear: both; height: 2px;">&nbsp;</div>
+          <div class="col-md-3">
+            <h2>Mobile Apps Development</h2>
+            <div class="listdesign">
+              <ul>
+                <li> <a href="#">Android Apps Development </a> </li>
+                <li> <a href="#">iOS Apps Development </a> </li>
+                <li> <a href="#">Hybrid Apps Development </a> </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h2>Graphics Design</h2>
+            <div class="listdesign">
+              <ul>
+                <li> <a href="#">Logo Design </a> </li>
+                <li> <a href="#">Banner Design </a> </li>
+                <li> <a href="#">Letter Pad Design </a> </li>
+                <li> <a href="#">Envelop Design </a> </li>
+                <li> <a href="#">Email Template Design </a> </li>
+                <li> <a href="#">Clipping Path </a> </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h2>Domain Hosting</h2>
+            <div class="listdesign">
+              <ul>
+                <li> <a href="#">Domain Name Registration </a> </li>
+                <li> <a href="#">Shared Hosting </a> </li>
+                <li> <a href="#">Reseller Hosting </a> </li>
+                <li> <a href="#">Virtual Private Server (VPS) </a> </li>
+                <li> <a href="#">Dedicated Server </a> </li>
+                <li> <a href="#">SSL Certificate </a> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </ul>
+  </li>
+   <li><a href="#about-us">About Us</a></li>
+  <li><a href="#services-2">Products</a></li>
+  <li><a href="#portfolio">Portfolio</a></li>
+  <li><a href="#client">Clients</a></li>
+   <li><a href="#">Career</a></li>
+  <li><a href="#contact-form">Contact Us</a></li>
+</ul>
+                    </div>
+                    <!--/.navbar-collapse-->
+                </div>
+            </nav>        </header>  <!--Banner Content-->
+  <section class="banner-content ">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-7 center screen-height">
+				<div class="banner-main">
+					<h2>We do awesome websites for you</h2>
+					<p>Simple, Flexible, Affordable Website, Software, Apps and SEO Service Provider in Dhaka, Bangladesh</p>
+					<a href="#" class="btn icon radius-2x hvr-bounce-to-right" data-toggle="modal" data-target="#modalContactForm">Get a Free Quote  <i class="icofont icofont-caret-right"></i></a>
+                    
+                     <div class="modal fade" id="modalContactForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold ">Get a Free Quote</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="col-md-12 showmsg">
+        
+      </div>
+<form id="contact-form-send" action="javascript:;">
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5 con-form">
+         
+ <label data-error="wrong" data-success="right" for="form34">Your name</label>
+          <input type="text" id="form34"  class="form-control validate" placeholder="Enter Name" name="name" required >
+          
+         
+        </div>
+
+        <div class="md-form mb-5 con-form">
+        <label data-error="wrong" data-success="right" for="form29">Your email</label>
+          <input type="email" id="form29" class="form-control validate" placeholder="Enter Email" name="email" required >
+        </div>
+
+        <div class="md-form mb-5 con-form">
+        <label data-error="wrong" data-success="right" for="form32">Project Name</label>
+        <input type="text" id="form32" class="form-control validate" placeholder="Enter Project Name" name="projectname" required >
+        </div>
+
+        <div class="md-form">
+        <label data-error="wrong" data-success="right" for="form8">Project Requirements</label>
+        <textarea type="text" id="form8" class="md-textarea form-control" rows="4" placeholder="Enter Project Requirements" name="projectreq" required ></textarea>
+        </div>
+
+      </div>
+      <div class="modal-footer d-flex justify-content-center">
+        <button class="btn orange-btn radius-2x hvr-bounce-to-right submitcontact">Request for Quote</button>
+      </div>
+    </form>
+    </div>
+  </div>
+</div>
+
+
+                    
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+</section><!--Banner Content--> 
+<!--Services-->
+<section id="services" class="space one grey-noise"> <span class="circleBg">&nbsp;</span>
+  <h4 class="rotate-heading animate-in left-out">services</h4>
+<div class="container home-service">
+    <div class="main-heading col-sm-12 no-padding animate-in move-up">
+        <h3>Our Services</h3>
+        <p>We are specialist in the following areas.</p>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-3 col-sm-6 col-xs-6 service-block animate-in fade-in">
+            <img src="/themes/coder71/assets//images/learning.png" alt="Web Design">
+            <h3><a href="javascript:;">Web Design</a> </h3>
+            <p>Beautiful, easy to use interfaces that drive sales, enquiries and conversions.</p>
+            <span class="service-link-small"><a href="javascript:;">Learn More</a></span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6 service-block animate-in fade-in">
+            <img src="/themes/coder71/assets//images/learning-1.png" alt="Web Development">
+            <h3><a href="javascript:;">Web Development</a> </h3>
+            <p>We develop custom solutions that our clients rely on for their success.</p>
+            <span class="service-link-small"><a href="javascript:;">Learn More</a></span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6 service-block animate-in fade-in">
+            <img src="/themes/coder71/assets//images/learning-2.png" alt="E-Commerce">
+            <h3><a href="javascript:;">E-Commerce</a> </h3>
+            <p>Expertise in Custom E-Commerce Development, Framework solutions.</p>
+            <span class="service-link-small"><a href="javascript:;">Learn More</a></span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6 service-block animate-in fade-in">
+            <img src="/themes/coder71/assets//images/learning-3.png" alt="CMS">
+            <h3><a href="javascript:;">CMS</a> </h3>
+            <p>Take back control of your website with solutions such as WordPress.</p>
+            <span class="service-link-small"><a href="javascript:;">Learn More</a></span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6 service-block animate-in fade-in">
+            <img src="/themes/coder71/assets//images/learning-4.png" alt="Mobile Apps">
+            <h3><a href="javascript:;">Mobile Apps</a> </h3>
+            <p>We develop iOS, Android and Windows phone solutions.</p>
+            <span class="service-link-small"><a href="javascript:;">Learn More</a></span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6 service-block animate-in fade-in">
+            <img src="/themes/coder71/assets//images/learning-5.png" alt="Digital Marketing">
+            <h3><a href="javascript:;">Digital Marketing</a> </h3>
+            <p>We build audiences through innovative SEO, PPC and Email Marketing.</p>
+            <span class="service-link-small"><a href="javascript:;">Learn More</a></span>
+        </div>
+        
+        <div class="col-md-3 col-sm-6 col-xs-6 service-block animate-in fade-in">
+            <img src="/themes/coder71/assets//images/learning-8.png" alt="Graphics Design">
+            <h3><a href="javascript:;">Graphics Design</a> </h3>
+            <p>Our creative team build engaging graphics for your brand.</p>
+            <span class="service-link-small"><a href="javascript:;">Learn More</a></span>
+        </div>
+        
+        <div class="col-md-3 col-sm-6 col-xs-6 service-block animate-in fade-in">
+            <img src="/themes/coder71/assets//images/learning-9.png" alt="Domain Hosting">
+            <h3><a href="javascript:;">Domain Hosting</a> </h3>
+            <p>Domain registration, transfer, reliable and cheap hosting service.</p>
+            <span class="service-link-small"><a href="javascript:;">Learn More</a></span>
+        </div>
+        
+    </div>
+</div></section>
+<!--Services--> 
+<div class="career-job-2">
+	<div class="container">
+		<div class="job-details-page" style="text-align: center;">
+
+				<i class="fa fa-frown fa-5x" aria-hidden="true" style="color: #E21F26;"></i>
+			<h2>Error 404</h2>
+			<div class="error">
+				Unable to resolve the request &quot;themes/coder71/assets/img/coder71-favicon.png&quot;.			</div>
+		</div>
+	</div>
+</div>
+<!--Footer-->
+ <!--footer-->
+    <footer id="footer-1" class="space">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3 footer-block about">
+                    <a href="index.html" class="menu-logo"><img src="/themes/coder71/assets/images/coder71-logo.png" alt="Instagram"></a>
+                    <p>Coder71 Ltd. is an established web development company delivering web development services of any complexity to clients worldwide. Being in IT business for over some years now we has a strong team of skilled experienced IT experts.</p>
+                    <h3 style="margin-bottom: 20px;">Proudly Member Of</h3>
+                    <a href="https://basis.org.bd/company-profile/22-02-025" target="_blank"><img src="/themes/coder71/assets/images/basisLogo.png" alt="Member Of Basis" style="margin-right:15px"></a><a href="https://japandesk.basis.org.bd/member-profile/coder71-limited" target="_blank"><img src="/themes/coder71/assets/images/basisLogo2.png" alt="Member Of Japan Desk"></a>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-6 footer-block">
+                    <h3>Important Links</h3>
+                    <ul class="important-links">
+                     <li><a href="#about-us">About Us</a> </li>
+                        <li><a href="#services">Our services</a> </li>
+                        <li><a href="#services-2">Products</a> </li>
+                        <li><a href="#portfolio">Portfolio</a> </li>
+                        <li><a href="#client">Clients</a> </li>
+                        <li><a href="#">Career</a> </li>
+                    </ul>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-6 footer-block">
+                    <h3>Our Services</h3>
+                    <ul class="important-links">
+                     <li><a href="#">Web Design</a> </li>
+                        <li><a href="#">Web Development</a> </li>
+                        <li><a href="#">E-Commerce</a> </li>
+                        <li><a href="#">Mobile Apps</a> </li>
+                        <li><a href="#">Digital Marketing</a> </li>
+                        <li><a href="#">Graphics Design</a> </li>
+                         <li><a href="#">Domain Hosting</a> </li>
+                          <li><a href="#">CMS</a> </li>
+                    </ul>
+                </div>
+                <div class="col-sm-3 footer-block about">
+                    <h3>Contact Us</h3>
+                    <ul class="instagram">
+                       <p>Coder71 Ltd. <br/>Jawad Tower, House# 74, Level# 7, Flat#8A, Zoo Road , Block# D, Section# 2, <br />
+Mirpur, Dhaka-1216, Bangladesh</p>
+<p>Phone : 01911774866 / 01736212121<br />
+
+Email : info@coder71.com</p>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+    
+    
+    
+    
+     <span><a href=""><div id="stop" class="scrollTop">
+   <i class="fa fa-long-arrow-up" aria-hidden="true"></i>
+
+  </div></a></span>
+    
+    
+    <!--Copyright-->
+    <section id="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 copyright-block">
+                    <p>Copyright © Coder71 Ltd. All Rights Reserved</p>
+                </div>
+                <div class="copyright-block col-sm-6 text-right">
+                    <ul class="social">
+                        <li><a href="https://www.facebook.com/WeAreCoder71/"><i class="fa fa-facebook"></i> </a> </li>
+                        <li><a href="https://twitter.com/wearecoder71"><i class="fa fa-twitter"></i> </a> </li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i> </a> </li>
+                        <li><a href="https://www.linkedin.com/company/coder71"><i class="fa fa-linkedin"></i> </a> </li>
+                        <li><a href="#"><i class="fa fa-pinterest"></i> </a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+<script type="text/javascript" src="/themes/coder71/assets/js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="/themes/coder71/assets/js/bootstrap.min.js"></script>
+<!-- <script src="/assets/js/e18447245b.js"></script> -->
+<script type="text/javascript" src="/themes/coder71/assets/js/appear.min.js"></script>
+<!--Portfolio-->
+<script type="text/javascript" src="/themes/coder71/assets/js/isotope.min.js"></script>
+<script type="text/javascript" src="/themes/coder71/assets/js/spsimpleportfolio.min.js"></script>
+<script type="text/javascript" src="/themes/coder71/assets/js/featherlight.min.js"></script>
+<script type="text/javascript"
+        src="/themes/coder71/assets/js/jquery.shuffle.modernizr.min.js"></script>
+<script type="text/javascript" src="/themes/coder71/assets/js/steller.js"></script>
+<script type="text/javascript" src="/themes/coder71/assets/js/smooth-scroll.min.js"></script>
+<script type="text/javascript" src="/themes/coder71/assets/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/themes/coder71/assets/js/typed.min.js"></script>
+<script type="text/javascript" src="/themes/coder71/assets/js/scroll.js"></script>
+<script type="text/javascript" src="/themes/coder71/assets/js/custom.min.js"></script>
+
+<script>
+    // var no=1;
+    // $(window).scroll(function () {
+    //     if($('#append-data').text()==''){
+    //         if(no==1) {
+    //             no=2;
+    //             $.get('', {}, function
+    //                 (data) {
+    //                     alert(data);
+    //                 $('#append-data').html(data);
+    //                 $('#append-loading').hide();
+    //             });
+    //         }
+    //     }
+    // });
+    // $(window).load(function() {
+        
+    // })
+</script>
+
+
+
+</body>
+
+</html><!--All Js-->
