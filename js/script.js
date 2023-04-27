@@ -85,5 +85,5 @@ setInterval(displayTime, 10);
 
 window.addEventListener('scroll', function(){
     let header = document.getElementById('header');
-    header.classList.toggle('sticky', window.scrollY > 100);
+    header.classList.toggle('sticky', window.scrollY > 200);
 })
